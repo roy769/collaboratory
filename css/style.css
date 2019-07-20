@@ -18,15 +18,23 @@ p {
 .sidenav-trigger {
   color: #0084ff;
 }
+.stroke1 {
+  text-shadow:-1px 3px 0 #000;
 
+}
+.stroke2 {
+  text-shadow:-1px 1px 0 #000;
+
+}
 .parallax-container {
   min-height: 580px;
-  line-height: 0;
+  line-height: 1;
   height: auto;
+
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
-    width: 100%;
+    width: 80%;
   }
 
 @media only screen and (max-width : 10em) {
