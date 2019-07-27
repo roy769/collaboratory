@@ -16,7 +16,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #0084ff;
+  color: darkgreen;
 }
 .stroke1 {
   text-shadow:-1px 3px 0 #000;
@@ -27,12 +27,12 @@ p {
 
 }
 .parallax-container {
-  min-height: 580px;
-  line-height: 1;
+  min-height: 500px;
+  line-height: 2;
   height: auto;
-
   color: rgba(255,255,255,.9);
 }
+
   .parallax-container .section {
     width: 80%;
   }
